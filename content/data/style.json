@@ -65,7 +65,7 @@
         "type": "ThemeStyleButton"
     },
     "buttonSecondary": {
-        "weight": "normal",
+        "weight": "bold",
         "case": "none",
         "letterSpacing": "normal",
         "borderRadius": "DEFAULT",
