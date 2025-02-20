@@ -13,7 +13,7 @@
     "primaryLinks": [
         {
             "label": "Prodotti",
-            "url": "/prodotti",
+            "url": "/home",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
