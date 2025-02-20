@@ -12,7 +12,7 @@
     },
     "primaryLinks": [
         {
-            "label": "Prodotti",
+            "label": "Home",
             "url": "/home",
             "icon": "arrowRight",
             "iconPosition": "right",
