@@ -18,7 +18,7 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
-            "altText": "Prodotti"
+            "altText": "Home"
         },
         {
             "label": "Blog",
