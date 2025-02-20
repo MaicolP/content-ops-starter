@@ -72,7 +72,7 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Accedi",
+            "label": "Registrati",
             "altText": "Accedi",
             "url": "https://app.netlify.com/signup",
             "icon": "arrowRight",
