@@ -25,7 +25,7 @@
             "altText": "Prodotti",
             "url": "/prodotti",
             "icon": "arrowRight",
-            "iconPosition": "left",
+            "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
