@@ -81,7 +81,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Accedi",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
