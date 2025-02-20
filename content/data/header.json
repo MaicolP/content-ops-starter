@@ -86,7 +86,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "altText": "Accedi"
         }
     ],
     "variant": "logo-left-primary-nav-centered",
