@@ -34,6 +34,7 @@ sections:
           placeholder: Il tuo messaggio
           width: full
           type: TextareaFormControl
+          isRequired: true
       elementId: contact-form
       styles:
         self:
