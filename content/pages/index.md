@@ -123,7 +123,9 @@ sections:
       text: Contattami!
       color: text-dark
       type: TitleBlock
-    subtitle: Hai doma
+    subtitle: >-
+      Se hai domande, richieste specifiche o hai bisogno di consigli sui nostri
+      prodotti, sono qui per aiutarti!
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
