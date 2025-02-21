@@ -44,22 +44,6 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-  - type: FeaturedPeopleSection
-    people:
-      - content/data/person1.json
-    actions: []
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - title:
       text: Generic Section With A Form
       color: text-dark
