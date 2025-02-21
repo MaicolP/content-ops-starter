@@ -47,7 +47,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: SuperFood più venduti
       color: text-dark
       styles:
         self:
