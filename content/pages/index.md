@@ -29,7 +29,7 @@ sections:
           width: full
           type: EmailFormControl
         - name: messaggio
-          label: Message
+          label: Messaggio
           hideLabel: true
           placeholder: Your message
           width: full
