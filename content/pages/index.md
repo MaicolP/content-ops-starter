@@ -90,6 +90,7 @@ sections:
               borderRadius: medium
         actions: []
         colors: bg-light-fg-dark
+        tagline: Maca Nera
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
         subtitle: $117
