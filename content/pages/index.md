@@ -22,6 +22,15 @@ sections:
         iconPosition: right
         style: secondary
         altText: Tutti i SuperFood
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /contatti
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/abstract-feature2.svg
