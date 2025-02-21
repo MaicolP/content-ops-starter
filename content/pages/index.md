@@ -54,7 +54,7 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Faux Fur Throw
+        title: Moringa Oleifera
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
