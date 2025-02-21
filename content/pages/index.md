@@ -93,7 +93,7 @@ sections:
         colors: bg-light-fg-dark
         tagline: Energizzante
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: Zenzero in polvere
         subtitle: $117
         image:
           type: ImageBlock
