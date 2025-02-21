@@ -23,7 +23,7 @@ sections:
         style: secondary
         altText: Tutti i SuperFood
       - type: Button
-        label: Get started
+        label: Contattami
         altText: ''
         url: /contatti
         showIcon: false
