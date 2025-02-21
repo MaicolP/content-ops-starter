@@ -99,7 +99,7 @@ sections:
             self:
               borderRadius: medium
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutral-fg-dark
         tagline: Energizzante
       - type: FeaturedItem
         title: Zenzero in polvere
