@@ -24,7 +24,7 @@ sections:
         - name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: La tua email
           isRequired: true
           width: full
           type: EmailFormControl
