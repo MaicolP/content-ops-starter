@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Ciao! Sono Betty Tealdo.
       color: text-dark
-    subtitle: ''
+    subtitle: Venditrice presso Alimenti Superiori
     text: >+
       Se sei tornato/a per acquistare di nuovo, sono felicissima di averti come
       cliente fedele. Qui troverai gli stessi prodotti che ti sono piaciuti, ma
