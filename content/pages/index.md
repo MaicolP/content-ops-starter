@@ -71,7 +71,7 @@ sections:
             url: /moringa
             showIcon: true
             icon: shoppingBag
-            iconPosition: right
+            iconPosition: left
             style: primary
             elementId: ''
         colors: bg-light-fg-dark
