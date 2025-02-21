@@ -177,6 +177,16 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    actions:
+      - type: Link
+        label: Facebook
+        altText: Facebook
+        url: /facebook
+        showIcon: true
+        icon: facebook
+        iconPosition: left
+        style: secondary
+        elementId: ''
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
