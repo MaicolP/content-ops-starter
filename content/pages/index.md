@@ -67,7 +67,7 @@ sections:
         actions:
           - type: Button
             label: Ordina
-            altText: ''
+            altText: Ordina
             url: /moringa
             showIcon: false
             icon: arrowRight
