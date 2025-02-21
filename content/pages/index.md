@@ -71,7 +71,7 @@ sections:
             url: /moringa
             showIcon: false
             icon: arrowRight
-            iconPosition: left
+            iconPosition: right
             style: primary
             elementId: ''
         colors: bg-light-fg-dark
