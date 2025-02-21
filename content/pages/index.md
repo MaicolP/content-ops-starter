@@ -14,7 +14,7 @@ sections:
     actions:
       - type: Button
         label: Tutti i SuperFood
-        url: /
+        url: /prodotti
         icon: arrowRight
         iconPosition: right
         style: secondary
