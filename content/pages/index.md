@@ -70,7 +70,7 @@ sections:
             altText: Ordina
             url: /moringa
             showIcon: false
-            icon: arrowRight
+            icon: shoppingBag
             iconPosition: right
             style: primary
             elementId: ''
