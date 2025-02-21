@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Ciao! Sono Betty
+      text: Ciao! Sono Betty Tealdo.
       color: text-dark
     subtitle: Be in good company
     text: >
