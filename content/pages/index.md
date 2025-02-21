@@ -80,7 +80,7 @@ sections:
         tagline: Integratore
       - type: FeaturedItem
         title: Maca Nera
-        subtitle: $ 44.99 – $ 90
+        subtitle: 12€ - 20€
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
