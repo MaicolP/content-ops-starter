@@ -187,6 +187,15 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Link
+        label: Send
+        altText: Send
+        url: /telefono
+        showIcon: true
+        icon: send
+        iconPosition: right
+        style: secondary
+        elementId: ''
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
