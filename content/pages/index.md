@@ -90,7 +90,7 @@ sections:
               borderRadius: medium
         actions: []
         colors: bg-light-fg-dark
-        tagline: Maca Nera
+        tagline: Energizzante
       - type: FeaturedItem
         title: Chunky Cotton Knit Throw
         subtitle: $117
