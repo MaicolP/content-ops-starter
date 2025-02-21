@@ -8,9 +8,12 @@ sections:
       text: Ciao! Sono Betty Tealdo.
       color: text-dark
     subtitle: ''
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      Se sei tornato/a per acquistare di nuovo, sono felicissima di averti come
+      cliente fedele. Qui troverai gli stessi prodotti che ti sono piaciuti, ma
+      anche tante novità. Se hai bisogno di aiuto o di consigli, sono sempre a
+      tua disposizione!"
+
     actions:
       - type: Button
         label: Tutti i SuperFood
