@@ -105,6 +105,7 @@ sections:
               borderRadius: medium
         actions: []
         colors: bg-light-fg-dark
+        tagline: Spezie
     actions: []
     elementId: ''
     variant: three-col-grid
