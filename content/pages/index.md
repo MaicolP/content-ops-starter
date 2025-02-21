@@ -22,7 +22,7 @@ sections:
           width: full
           type: TextFormControl
         - name: email
-          label: Email
+          label: La tua email
           hideLabel: true
           placeholder: La tua email
           isRequired: true
