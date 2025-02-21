@@ -48,7 +48,7 @@ sections:
     title:
       type: TitleBlock
       text: 'Prodotti più venduti:'
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: left
