@@ -17,7 +17,7 @@ sections:
         - name: Nome
           label: Nome
           hideLabel: true
-          placeholder: Your name
+          placeholder: Nome
           isRequired: true
           width: full
           type: TextFormControl
