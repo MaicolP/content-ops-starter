@@ -93,7 +93,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/371-4b5-MACA-NERA-IN-POLVERE-600x600.jpg
-          altText: Cotton Knit Throws
+          altText: Maca Nera
           elementId: ''
           styles:
             self:
