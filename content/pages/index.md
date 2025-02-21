@@ -15,7 +15,7 @@ sections:
     media:
       fields:
         - name: Nome
-          label: Name
+          label: Nome
           hideLabel: true
           placeholder: Your name
           isRequired: true
