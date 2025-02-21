@@ -3,13 +3,6 @@ title: Home
 slug: /
 sections:
   - type: FeaturedPeopleSection
-    title:
-      type: TitleBlock
-      text: Meet the team
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     people:
       - content/data/person1.json
     actions: []
