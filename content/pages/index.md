@@ -83,7 +83,7 @@ sections:
         subtitle: 12€ - 20€
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/371-4b5-MACA-NERA-IN-POLVERE-600x600.jpg
           altText: Cotton Knit Throws
           elementId: ''
           styles:
