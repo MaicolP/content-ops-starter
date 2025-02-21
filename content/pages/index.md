@@ -13,7 +13,7 @@ sections:
       businesses.
     actions:
       - type: Button
-        label: Get started
+        label: Tutti i SuperFood
         url: /
         icon: arrowRight
         iconPosition: right
