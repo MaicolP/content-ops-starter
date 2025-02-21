@@ -66,7 +66,7 @@ sections:
               borderRadius: medium
         actions:
           - type: Button
-            label: Get started
+            label: Ordina
             altText: ''
             url: /moringa
             showIcon: false
