@@ -24,7 +24,7 @@ sections:
         altText: Tutti i SuperFood
       - type: Button
         label: Contattami
-        altText: ''
+        altText: Contattami
         url: /contatti
         showIcon: false
         icon: arrowRight
