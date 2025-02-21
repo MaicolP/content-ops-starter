@@ -55,7 +55,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Moringa Oleifera
-        subtitle: $ 88 – $ 176
+        subtitle: 12€ - 20€
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
