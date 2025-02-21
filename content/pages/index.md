@@ -97,7 +97,7 @@ sections:
         subtitle: 5€ - 10€
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/326-bc8-ZENZERO-MACINATO-600x600.jpg
           altText: Chunky Cotton Knit Throw
           elementId: ''
           styles:
