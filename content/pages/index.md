@@ -18,6 +18,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Tutti i SuperFood
     media:
       type: ImageBlock
       url: /images/abstract-feature2.svg
