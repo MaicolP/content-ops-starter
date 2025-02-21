@@ -47,7 +47,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Items on sale
+      text: 'Prodotti più venduti:'
       color: text-dark
       styles:
         self:
