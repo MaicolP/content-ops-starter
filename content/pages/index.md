@@ -94,7 +94,7 @@ sections:
         tagline: Energizzante
       - type: FeaturedItem
         title: Zenzero in polvere
-        subtitle: $117
+        subtitle: 5€ - 10€
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
