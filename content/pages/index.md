@@ -77,6 +77,7 @@ sections:
             borderRadius: none
             flexDirection: col
             justifyContent: center
+        tagline: Integratore
       - type: FeaturedItem
         title: Maca Nera
         subtitle: $ 44.99 – $ 90
