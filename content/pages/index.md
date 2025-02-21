@@ -27,7 +27,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/avatar1.svg
+      url: /images/avatar5.svg
       altText: Dope design preview
     badge:
       type: Badge
