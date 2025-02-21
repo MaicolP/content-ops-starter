@@ -108,7 +108,7 @@ sections:
         tagline: Spezia
     actions: []
     elementId: ''
-    variant: toggle-list
+    variant: two-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
