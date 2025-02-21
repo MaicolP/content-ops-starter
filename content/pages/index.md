@@ -31,7 +31,7 @@ sections:
         - name: messaggio
           label: Messaggio
           hideLabel: true
-          placeholder: Your message
+          placeholder: Il tuo messaggio
           width: full
           type: TextareaFormControl
       elementId: contact-form
