@@ -58,7 +58,7 @@ sections:
         subtitle: 12€ - 20€
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/376-9d1-MORINGA-OLEIFERA-IN-POLVERE-600x600.jpg
           altText: Faux Fur Throw
           elementId: ''
           styles:
